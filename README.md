@@ -65,7 +65,7 @@ The self-critic agent supports various configuration options:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/savi-ai/savi-generic-rag-server.git
 cd savi-generic-rag-server
 ```
 
@@ -169,10 +169,7 @@ The system is built with a modular architecture:
 4. Add tests for new functionality
 5. Submit a pull request
 
-## License
-
-[Add your license information here]
 
 ## Support
 
-For questions and support, please [create an issue](link-to-issues) or contact the development team.
+For questions and support, please [create an issue](link-to-issues) 
